@@ -33,6 +33,31 @@ $(document).ready(function(){
 		}
 	})
 
+	// New phones owl-carousel
+	$('#new-phones .owl-carousel').owlCarousel({
+		loop:true,
+		nav:true,
+		dots:false,
+		autoplay:true,
+		margin:10,
+		responsiveClass:true,
+		responsive:{
+			0:{
+				items:1,
+				nav:true
+			},
+			600:{
+				items:3,
+				nav:false
+			},
+			1000:{
+				items:5,
+				nav:true,
+				loop:false
+			}
+		}
+	})
+
 	// Isotope filter
 	var $grid = $('.grid').isotope({
 		itemSelector: '.grid-item',
