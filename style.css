@@ -114,4 +114,10 @@ button, button:focus {
   color: #003859;
 }
 
+/* Special Price Section css */
+#special-price .grid .grid-item {
+  margin-right: 1.2rem;
+  margin-top: 1rem;
+}
+
 /*# sourceMappingURL=style.css.map */
