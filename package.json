@@ -1,0 +1,23 @@
+{
+  "name": "mobile_shoppe_php",
+  "version": "1.0.0",
+  "description": "Mobile shoppe e-commerce website\\]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderasraf/mobile_shoppe_php.git"
+  },
+  "keywords": [
+    "Mobile",
+    "shoppe"
+  ],
+  "author": "Hass Asraf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderasraf/mobile_shoppe_php/issues"
+  },
+  "homepage": "https://github.com/coderasraf/mobile_shoppe_php#readme"
+}
